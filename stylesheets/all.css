@@ -5699,16 +5699,17 @@ footer {
   #diamond-sponsors .sponsor-image {
     width: 260px;
     height: 260px;
-    border: 6px solid #852050; }
-  /* line 42, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    border: 6px solid #852050;
+    padding: 8px; }
+  /* line 43, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #diamond-sponsors p {
     display: block;
     margin-top: 20px; }
-    /* line 46, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    /* line 47, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
     #diamond-sponsors p a {
       color: #6a2045; }
 
-/* line 52, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 53, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 #platinum-sponsors-heading {
   margin: 0 auto;
   text-align: center;
@@ -5727,19 +5728,20 @@ footer {
     padding: 24px 0;
     margin-top: 0; }
 
-/* line 57, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 58, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 #platinum-sponsors {
   background-image: url("../images/whats-new-bg.jpg?1372744883"); }
-  /* line 60, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 61, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #platinum-sponsors .sponsor-image {
     width: 163px;
     height: 163px;
-    border: 4px solid #388f12; }
-  /* line 68, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    border: 4px solid #388f12;
+    padding: 8px; }
+  /* line 69, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #platinum-sponsors p a {
     color: #beef54; }
 
-/* line 74, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 75, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 #gold-sponsors-heading {
   margin: 0 auto;
   text-align: center;
@@ -5758,25 +5760,26 @@ footer {
     padding: 24px 0;
     margin-top: 0; }
 
-/* line 79, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 80, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 #gold-sponsors {
   background-image: url("../images/blue-bg.jpg?1372744883"); }
-  /* line 82, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 83, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #gold-sponsors .sponsor_wrapper {
     width: 171px;
     margin: 0 auto;
     display: block;
     margin-bottom: 26px; }
-  /* line 89, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 90, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #gold-sponsors .sponsor-image {
     width: 163px;
     height: 163px;
-    border: 4px solid #015d80; }
-  /* line 96, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    border: 4px solid #015d80;
+    padding: 8px; }
+  /* line 98, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #gold-sponsors p a {
     color: #64d5ff; }
 
-/* line 102, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 104, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 #silver-sponsors-heading {
   margin: 0 auto;
   text-align: center;
@@ -5795,62 +5798,63 @@ footer {
     padding: 24px 0;
     margin-top: 0; }
 
-/* line 107, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 109, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 #silver-sponsors {
   background-image: url("../images/yellow-bg.jpg?1372744883"); }
-  /* line 110, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 112, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #silver-sponsors .sponsor_wrapper {
     width: 171px;
     margin: 0 auto;
     display: block;
     margin-bottom: 26px; }
-  /* line 117, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 119, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #silver-sponsors .sponsor-image {
     width: 163px;
     height: 163px;
-    border: 4px solid #015d80; }
-  /* line 123, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    border: 4px solid #015d80;
+    padding: 8px; }
+  /* line 126, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   #silver-sponsors p {
     color: #836408; }
-    /* line 125, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    /* line 128, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
     #silver-sponsors p a {
       color: #ffefbe; }
 
-/* line 131, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 134, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 .sponsor_section {
   padding-top: 107px;
   padding-bottom: 77px; }
-  /* line 134, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 137, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   .sponsor_section .sponsor-image {
     text-align: center;
     margin: 0 auto;
     background-color: white;
     display: table-cell;
     vertical-align: middle; }
-  /* line 142, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 145, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   .sponsor_section p {
     color: white;
     font-size: 1em;
     line-height: 1.6em; }
-    /* line 147, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    /* line 150, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
     .sponsor_section p a {
       font-style: normal; }
 
-/* line 153, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+/* line 156, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
 .tweeter_section {
   background-color: #00adbb;
   padding-top: 50px;
   padding-bottom: 84px; }
-  /* line 158, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+  /* line 161, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
   .tweeter_section .tweet {
     float: left;
     background: url("../images/tweet-bg.png?1372744883");
     background-repeat: no-repeat;
     background-position: 75px 0px; }
-    /* line 164, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    /* line 167, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
     .tweeter_section .tweet * {
       float: left; }
-    /* line 168, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
+    /* line 171, /Users/hjhart/workspace/gogaruco/source/stylesheets/_sponsors.css.scss */
     .tweeter_section .tweet p {
       padding: 17px 0 0 25px;
       display: block;
@@ -6116,12 +6120,22 @@ a.image_link {
   /* line 146, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
   #sponsors .sponsor_level {
     height: 200px; }
-    /* line 149, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+    @media screen and (max-width: 800px) {
+      /* line 146, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+      #sponsors .sponsor_level {
+        height: 280px; } }
+    @media screen and (max-width: 800px) {
+      /* line 153, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+      #sponsors .sponsor_level.secondary {
+        position: relative;
+        top: -280px !important;
+        height: 0px; } }
+    /* line 160, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
     #sponsors .sponsor_level.secondary {
       position: relative;
       top: -200px;
       height: 0px; }
-    /* line 156, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+    /* line 166, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
     #sponsors .sponsor_level span {
       font-size: 0.8125em;
       color: #797979;
@@ -6129,18 +6143,18 @@ a.image_link {
       text-transform: uppercase;
       padding-bottom: 20px;
       display: block; }
-    /* line 165, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+    /* line 175, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
     #sponsors .sponsor_level ul {
       padding: 25px 0 5px 0; }
-      /* line 167, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+      /* line 177, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
       #sponsors .sponsor_level ul li {
         display: inline; }
-        /* line 170, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+        /* line 180, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
         #sponsors .sponsor_level ul li img {
           max-height: 100px;
           max-width: 185px;
           padding: 0 10px; }
-  /* line 179, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  /* line 189, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
   #sponsors .prospectus {
     margin-top: 12px;
     display: block;
@@ -6150,6 +6164,119 @@ a.image_link {
     text-decoration: underline;
     width: 100%; }
 
-/* line 190, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+/* line 200, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
 .hidden {
   display: none; }
+
+/* line 205, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+#team {
+  background-color: #f9bf12;
+  color: #836407;
+  line-height: 1.9em;
+  padding: 68px 0px; }
+  /* line 206, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #team h2 {
+    font-family: 'Square721BT-Bold';
+    font-size: 1.25em;
+    color: white;
+    text-transform: uppercase; }
+  /* line 213, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #team a {
+    color: white; }
+  /* line 222, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #team img {
+    border: 4px solid white; }
+  /* line 226, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #team .row {
+    margin-bottom: 40px; }
+  /* line 230, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #team .podium {
+    position: relative;
+    width: 66.66667%;
+    float: left; }
+    /* line 235, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+    #team .podium img {
+      width: 460px;
+      border: 4px solid white; }
+
+/* line 242, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+#volunteers-heading {
+  margin: 0 auto;
+  text-align: center;
+  height: 44px;
+  margin-top: -44px;
+  position: relative; }
+  /* line 24, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #volunteers-heading h2 {
+    height: 88px;
+    color: #efefef;
+    float: left;
+    width: 100%;
+    background: url("../images/title-ribbon.png?1372744883") no-repeat center center;
+    text-transform: uppercase;
+    font-family: 'Square721BT-BoldExtended';
+    font-size: 26px;
+    padding: 24px 0;
+    margin-top: 0; }
+
+/* line 248, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+#volunteers {
+  padding: 68px 0;
+  background: url("../images/speaker-bg.jpg?1372744883");
+  color: white; }
+  /* line 253, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #volunteers img {
+    width: 100%; }
+  /* line 257, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #volunteers a.volunteer-url {
+    font-family: 'Square721BT-Bold';
+    color: white;
+    font-size: 1em;
+    margin-top: 16px;
+    display: block;
+    text-align: center;
+    text-transform: uppercase; }
+  /* line 267, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #volunteers .volunteer-title {
+    display: block;
+    margin-top: 13px;
+    color: #6a2045;
+    font-size: 0.9375em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "AntennaCond-Regular"; }
+  /* line 277, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #volunteers img {
+    border: 4px solid white; }
+
+/* line 282, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+#about-code-of-conduct-heading {
+  margin: 0 auto;
+  text-align: center;
+  height: 44px;
+  margin-top: -44px; }
+  /* line 24, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #about-code-of-conduct-heading h2 {
+    height: 88px;
+    color: #efefef;
+    float: left;
+    width: 100%;
+    background: url("../images/title-ribbon.png?1372744883") no-repeat center center;
+    text-transform: uppercase;
+    font-family: 'Square721BT-BoldExtended';
+    font-size: 26px;
+    padding: 24px 0;
+    margin-top: 0; }
+
+/* line 287, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+#about-code-of-conduct {
+  background-image: url("../images/whats-new-bg.jpg?1372744883");
+  padding-bottom: 66px; }
+  /* line 291, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #about-code-of-conduct #conduct-policy {
+    background: url("../images/green-bubble-wide-bg.png") no-repeat;
+    padding: 26px 74px 26px 84px;
+    color: white; }
+  /* line 298, /Users/hjhart/workspace/gogaruco/source/stylesheets/all.css.scss */
+  #about-code-of-conduct p a {
+    color: #beef54; }
