@@ -5213,17 +5213,17 @@ header .row {
 header ul {
   font-family: "AntennaCond-Regular";
   margin-top: -35px; }
-  /* line 12, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 13, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   header ul img {
     margin-top: 35px; }
-/* line 17, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+/* line 18, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
 header li:nth-child(2) {
   margin-left: 45px; }
 
-/* line 22, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+/* line 23, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
 #register {
   margin: 50px 50px 0 0; }
-  /* line 25, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 26, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   #register a {
     display: block;
     background: url("../images/register.png?1372744883") no-repeat;
@@ -5231,10 +5231,10 @@ header li:nth-child(2) {
     height: 42px;
     margin: 0 auto;
     color: transparent; }
-  /* line 33, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 34, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   #register a:hover {
     background: url("../images/register-hover.png?1372744883") no-repeat; }
-  /* line 35, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 36, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   #register #date {
     color: #767676;
     font-family: Antenna-Bold;
@@ -5242,55 +5242,58 @@ header li:nth-child(2) {
     margin: 10px auto 0;
     text-align: center; }
 
-/* line 44, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+/* line 45, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
 header, footer {
   background: #232323;
   border-bottom: 2px solid white;
   font-family: Antenna-Regular; }
-  /* line 49, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 50, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   header li, footer li {
     font-size: 15px;
     display: inline;
     margin-right: 45px; }
-    /* line 54, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+    /* line 55, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
     header li a, footer li a {
       color: #E3E2E3;
       text-transform: uppercase; }
-      /* line 58, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+      /* line 59, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
       header li a:hover, footer li a:hover {
         color: #E3E2E3; }
+      /* line 63, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+      header li a:active, footer li a:active {
+        color: #5e5e5e; }
 
-/* line 65, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+/* line 71, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
 footer {
   color: #ffffff; }
-  /* line 68, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 74, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   footer ul.nav {
     font-family: "AntennaCond-Regular";
     margin-top: 57px;
     margin-bottom: 52px; }
-  /* line 74, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 80, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   footer ul.past_years {
     margin-top: 20px;
     font-size: 11px; }
-    /* line 78, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+    /* line 84, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
     footer ul.past_years li {
       background-image: url("../images/ruby-icon.png?1372744883");
       background-repeat: no-repeat;
       padding-left: 34px;
       margin-right: 30px; }
-  /* line 86, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+  /* line 92, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
   footer .credits {
     color: #5e5e5e;
     margin-bottom: 60px;
     font-size: 12px;
     margin-top: 26px; }
-    /* line 92, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+    /* line 98, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
     footer .credits a {
       color: #ffffff; }
-      /* line 95, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+      /* line 101, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
       footer .credits a:hover {
         color: #ffffff; }
-    /* line 100, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
+    /* line 106, /Users/hjhart/workspace/gogaruco/source/stylesheets/_layout.scss */
     footer .credits #bar {
       color: #ffffff; }
 
